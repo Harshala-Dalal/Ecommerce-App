@@ -29,6 +29,8 @@ This project is developed using HTML, CSS, and JavaScript, demonstrating strong 
 
 - 🌐 Hosted using GitHub Pages
 
+----
+
 ## 🛠️ Tech Stack
 
 1. Frontend
@@ -43,6 +45,8 @@ This project is developed using HTML, CSS, and JavaScript, demonstrating strong 
 
 - GitHub Pages
 
+----
+
 ## 🧩 Application Workflow
 
 - 1️⃣ User opens the website
@@ -55,6 +59,8 @@ This project is developed using HTML, CSS, and JavaScript, demonstrating strong 
   
 - 5️⃣ Smooth navigation and UI interactions
 
+----
+
 ## 🎯 Use Cases
 
 - Frontend web development practice
@@ -65,6 +71,3 @@ This project is developed using HTML, CSS, and JavaScript, demonstrating strong 
 
 - Portfolio project for resumes and interviews
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
